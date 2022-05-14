@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">EC1_GRUPO1</string>
+    <string name="prg2_titulo">Pregunta 2: Promedio de Alumno</string>
+    <string name="prg4_titulo">Pregunta 4: Ver números pares</string>
+    <string name="prg2_btnPromedio">Ver Promedio</string>
+    <string name="prg2_btnRegresar">Regresar Inicio</string>
+    <string name="prg2_nota1">Ingrese nota 1:</string>
+    <string name="prg2_nota2">Ingrese nota 2:</string>
+    <string name="prg2_nota3">Ingrese nota 3:</string>
+    <string name="prg2_nota4">Ingrese nota 4:</string>
+    <string name="prg4_Ver_Pares">Ver Pares</string>
+
+    <string name="Ini_titulo">Evaluación Continua 1</string>
+    <string name="Ini_btn1">Pregunta 1</string>
+    <string name="Ini_btn2">Pregunta 2</string>
+    <string name="Ini_btn3">Pregunta 3</string>
+    <string name="Ini_btn4">Pregunta 4</string>
+    <string name="Ini_txt1">Fernández Inuma, Luis Alberto</string>
+    <string name="Ini_txt2">Monge Cabrera, Luis Antonio</string>
+    <string name="Ini_txt3">Pacora Chávez, Jorge</string>
+
+
+
+    <string name="valbtncalcular">Calcular</string>
+    <string name="valtxtminutos">Ingrese minutos</string>
+    <string name="valtxthoras"> Ingrese Horas</string>
+    <string name="valtitulo">Pregunta 1: Calculo de Parqueo</string>
+
+    <string name="btnverificar">Verificar</string>
+    <string name="txtanio">Ingrese el año de nacimiento</string>
+    <string name="txtnombre">Ingrese su nombre</string>
+    <string name="prg3_titulo">Pregunta 3: Solicitud DNI</string>
+
+
+</resources>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Pregunta4">
+
+    <TextView
+        android:id="@+id/txtTitulo4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:layout_marginTop="16dp"
+        android:textAlignment="center"
+        android:text="@string/prg4_titulo"
+        />
+
+    <TextView
+        android:id="@+id/txtResultado4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:layout_marginTop="16dp"
+        android:textAlignment="center"
+
+        />
+    <Button
+        android:id="@+id/btnPares"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:layout_marginStart="50dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="50dp"
+        android:textAlignment="center"
+        android:text="@string/prg4_Ver_Pares"
+         />
+
+    <Button
+        android:id="@+id/btnRegresar4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="regresarInicio4"
+        android:layout_marginStart="50dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="50dp"
+        android:textAlignment="center"
+        android:text="@string/prg2_btnRegresar" />
+
+
+</LinearLayout>
