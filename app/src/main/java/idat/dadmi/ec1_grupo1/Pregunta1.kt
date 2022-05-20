@@ -25,7 +25,7 @@ class Pregunta1 : AppCompatActivity() , View.OnClickListener {
 
         var horas = binding.txthoras.text.toString()
         var minutos = binding.txtminutos.text.toString()
-        var tarifa = 2.500
+        var tarifa = 4.500
 
 
         if (horas == null || minutos == null || horas == "" || minutos == "" ) {
